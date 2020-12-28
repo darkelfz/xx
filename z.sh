@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Modified by Kien Sing
 # =====================
 # Fast Install: curl -s -L http://www.site.com/setup_xmr.sh | bash -s <your email address> <wallet address>
 # This is Free Script, no complaint.
